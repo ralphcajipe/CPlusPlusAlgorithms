@@ -1,0 +1,6 @@
+# ninja log v5
+1456	1772	6643884477238920	binary_search.exe	16dd134f5b7ac613
+2	525	6643885878386675	build.ninja	dbe997b739d1a94c
+6	1455	6643884474141483	CMakeFiles/binary_search.dir/binary_search_recursive.cpp.obj	a699db5d19be0115
+9	1364	6643886103160592	CMakeFiles/binary_search.dir/binary_search_recursive.cpp.obj	cafd562835f6d4f4
+1365	1556	6643886104957678	binary_search.exe	16dd134f5b7ac613
